@@ -1,2 +1,2 @@
-# bootstrap_odev2
-Patika Bootstrap Odev 2
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
